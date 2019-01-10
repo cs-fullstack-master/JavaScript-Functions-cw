@@ -1,1 +1,1 @@
-# avaScript-Functions-cw
+# JavaScript-Functions-cw
